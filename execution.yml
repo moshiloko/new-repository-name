@@ -1,7 +1,0 @@
-execution: 
-- concurrency: 10
-  ramp-up: 15s
-  hold-for: 2m
-  iterations: 1000
-  throughput: 20
-  scenario: scenario_name
