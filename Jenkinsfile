@@ -1,11 +1,5 @@
 #!/bin/bash
-    stages {
-        stage('Build') {
-            steps {
-                sh 'git pull'
-                sh 'npm install'
-                sh 'npm run build'
-                sh 'serve -n build'
-            }
-        }
-    }  
+git pull
+npm install
+npm run build
+serve -n build
