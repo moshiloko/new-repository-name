@@ -8,7 +8,6 @@ pipeline {
     stage('Git') {
       steps {
         git 'https://github.com/moshiloko/new-repository-name.git'
-            printf('work')
       }
     }
      
