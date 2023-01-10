@@ -1,8 +1,28 @@
-#!/bin/bash
-git checkout development
-git pull origin development
-npm install
-npm run all-lint & & npm test
-npm version prerelease
-git push origin development
-echo NEW_VERS= of $ (npm version prerelease)> new_version_file
+pipeline {
+  agent any
+    
+  tools {nodejs "node"}
+    
+  stages {
+        
+    stage('Git') {
+      steps {
+        git 'https://github.com/moshiloko/new-repository-name.git'
+      }
+    }
+     
+    stage('Build') {
+      steps {
+        sh 'npm install'
+         sh 'npm run build'
+      }
+    }  
+    
+            
+    stage('Test') {
+      steps {
+        sh 'node test'
+      }
+    }
+  }
+}
