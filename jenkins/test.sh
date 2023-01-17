@@ -1,5 +1,5 @@
 #!/usr/bin/bash
+pm2 start test_server
 pm2 status
-npm start
 npm run build
 serve -n build &
