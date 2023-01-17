@@ -1,3 +1,3 @@
 #!/usr/bin/bash
-^c
+<Ctrl> + C
 npm start
