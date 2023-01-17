@@ -1,3 +1,3 @@
 #!/usr/bin/bash
-<Ctrl> + C
+npm stop
 npm start
