@@ -1,4 +1,4 @@
 #!/usr/bin/bash
-pm2 start status
+pm2 status
 npm run build
 serve -n build &
