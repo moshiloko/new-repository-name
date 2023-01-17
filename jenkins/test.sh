@@ -1,3 +1,2 @@
 #!/usr/bin/bash
-npm stop
-npm start
+snpm start
