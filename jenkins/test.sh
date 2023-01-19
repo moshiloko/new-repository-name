@@ -5,4 +5,4 @@
 # npm start
 # npm run build
 # serve -s build
-sudo echo "hello world"
+echo "hello world"
