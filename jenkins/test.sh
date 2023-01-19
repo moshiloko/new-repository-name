@@ -3,5 +3,5 @@
 # pm2 status
 # pm2 save
 npm start
-npm run build
-serve -s build
+#npm run build
+#serve -s build
