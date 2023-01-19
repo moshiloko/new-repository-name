@@ -4,4 +4,4 @@ pm2 start npm start --watch
 # pm2 save
 #npm start
 npm run build
-#serve -s build
+serve -s build
