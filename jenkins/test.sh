@@ -1,5 +1,4 @@
-
-lsof -i tcp:3000 
+kill -9 2839
 
 # pm2 start test.sh --watch
 # pm2 save
