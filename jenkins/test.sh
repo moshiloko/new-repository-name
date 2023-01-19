@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-pm2 start npm start --watch
+pm2 start 'npm start'
 # pm2 status
 # pm2 save
 #npm start
