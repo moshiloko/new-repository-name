@@ -1,3 +1,3 @@
- pm2 start serve -n build --watch
-# pm2 save
+pm2 start serve -n build --watch
 pm2 status
+pm2 save
