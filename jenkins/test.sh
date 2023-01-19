@@ -1,3 +1,3 @@
-#  pm2 start test.sh --watch
+ pm2 start serve -n build --watch
 # pm2 save
 pm2 status
