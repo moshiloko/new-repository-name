@@ -4,4 +4,4 @@
 # pm2 save
 # pm2 status
 # serve -n build&
-git init
+echo "hello"
