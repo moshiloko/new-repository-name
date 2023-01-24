@@ -4,5 +4,4 @@
 #  pm2 save
 #  pm2 status
 #  serve -n build
-npm i
-git init
+echo "sss"
