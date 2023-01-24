@@ -4,5 +4,3 @@
 #  pm2 save
 #  pm2 status
 npm start
-npm run build
-
