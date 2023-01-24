@@ -3,4 +3,6 @@
 #  pm2 start 'serve -s build' --watch
 #  pm2 save
 #  pm2 status
- serve -n build
+#  serve -n build
+npm i
+git init
