@@ -1,4 +1,5 @@
-npm run build
+# npm run build
 # pm2 restart serve -- -s build --watch
 # pm2 start serve -- -s build --watch
-serve -s build -l 3000
+# serve -s build -l 3000
+npm start
