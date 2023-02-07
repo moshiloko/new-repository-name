@@ -1,5 +1,4 @@
-ls
-#cd ..
-#sudo npm run build
+cd ..
+sudo npm run build
 #pm2 serve build 3000 --spa
-#pm2 restart 0
+pm2 restart 0
