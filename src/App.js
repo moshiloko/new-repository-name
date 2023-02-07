@@ -9,7 +9,7 @@ function App() {
         <p>
         moshe got app
         </p>
-        <div style={{width: 50 , height: 50 , backgroundColor:'red'}}/>
+        <div style={{width: 50 , height: 50 , backgroundColor:'blue'}}/>
         <a
           className="App-link"
           href="https://reactjs.org"
