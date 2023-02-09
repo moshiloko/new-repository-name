@@ -11,7 +11,7 @@ function App() {
         </p>
         <div style={{ display: 'flex', flexDirection: 'row' }}>
 
-          <div style={{ width: 50, height: 50, backgroundColor: 'blue' }} />
+          <div style={{ width: 50, height: 50, backgroundColor: 'myth' }} />
           <div style={{ width: 50, height: 50, backgroundColor: 'white' }} />
         </div>
         <a
