@@ -11,8 +11,8 @@ function App() {
         </p>
         <div style={{ display: 'flex', flexDirection: 'row' }}>
 
-          <div style={{ width: 50, height: 50, backgroundColor: 'yellow' }} />
-          <div style={{ width: 50, height: 50, backgroundColor: 'white' }} />
+          <div style={{ width: 400, height: 200, backgroundColor: 'purple' }} />
+          <div style={{ width: 400, height: 200, backgroundColor: 'lime green' }} />
         </div>
         <a
           className="App-link"
