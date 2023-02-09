@@ -13,6 +13,7 @@ function App() {
 
           <div style={{ width: 50, height: 50, backgroundColor: 'yellow' }} />
           <div style={{ width: 50, height: 50, backgroundColor: 'white' }} />
+          <div><span style='font-size:70px;color:rgb(73, 111, 145);font-style:normal;font-weight:normal;'>&#x1F981;</span></div>
         </div>
         <a
           className="App-link"
