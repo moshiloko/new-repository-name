@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          moshe got app
+          moshe got auto_build
         </p>
         <div style={{ display: 'flex', flexDirection: 'row' }}>
 
