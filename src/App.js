@@ -12,9 +12,9 @@ function App() {
         <div style={{ display: 'flex', flexDirection: 'row' }}>
 
           <div style={{ width: 100, height: 100, backgroundColor: 'olive' }} />
-          <div style={{ width: 100, height: 100, backgroundColor: 'lime' }} />
+          <div style={{ width: 50, height: 50, backgroundColor: 'lime' }} />
           <div style={{ width: 100, height: 100, backgroundColor: 'maroon' }} />
-          <div style={{ width: 100, height: 100, backgroundColor: 'teal' }} />
+          <div style={{ width: 50, height: 50, backgroundColor: 'teal' }} />
           <div style={{ width: 100, height: 100, backgroundColor: 'aqua' }} />
         </div>
         <a
