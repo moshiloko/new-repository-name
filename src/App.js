@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <span style='font-size:70px;color:rgb(73, 111, 145);font-style:normal;font-weight:normal;'>&#x1F981;</span>
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
           moshe got auto_build
         </p>
         <div style={{ display: 'flex', flexDirection: 'row' }}>
