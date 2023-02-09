@@ -4,25 +4,15 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          moshe got auto_build
-        </p>
-        <div style={{ display: 'flex', flexDirection: 'row' }}>
-
-          <div style={{ width: 50, height: 50, backgroundColor: 'yellow' }} />
-          <div style={{ width: 50, height: 50, backgroundColor: 'white' }} />
-        </div>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+   <html>
+<title>Online HTML Editor</title>
+<head>
+</head>
+<body>
+<h1>Online HTML Editor</h1>
+<div>This is real time online HTML Editor</div>
+</body>
+</html>
     </div>
   );
 }
