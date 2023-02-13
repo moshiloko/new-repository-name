@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          moshe wanna be QA
+          moshe wanna be DevOps
         </p>
         <div style={{ display: 'flex', flexDirection: 'row' }}>
 
