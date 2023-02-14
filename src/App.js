@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          re0a+moshe wanna be DevOps?
+          his Is Awesome
         </p>
         <div style={{ display: 'flex', flexDirection: 'row' }}>
 
