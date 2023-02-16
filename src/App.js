@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This Is Fucking Fuck Amazingggg
+          This Is Fucking Fuck Amazingggg adgtdgjfyj
         </p>
         <div style={{ display: 'flex', flexDirection: 'row' }}>
 
