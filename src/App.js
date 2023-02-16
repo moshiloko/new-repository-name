@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          change by git
+          moshe got app
         </p>
         <div style={{ display: 'flex', flexDirection: 'row' }}>
 
