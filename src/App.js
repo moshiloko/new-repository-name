@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is moses test1
+          This is moses react app test
         </p>
         <div style={{ display: 'flex', flexDirection: 'row' }}>
 
