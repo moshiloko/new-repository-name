@@ -7,9 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          |          |
-          |          |
-          |__________|
+        is it working?
         </p>
         <div style={{ display: 'flex', flexDirection: 'row' }}>
 
