@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        is it working?
+        is it working
         </p>
         <div style={{ display: 'flex', flexDirection: 'row' }}>
 
