@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        is it
+        is it is it?
         </p>
         <div style={{ display: 'flex', flexDirection: 'row' }}>
 
