@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        hello
+        zero down time
         </p>
         <div style={{ display: 'flex', flexDirection: 'row' }}>
 
